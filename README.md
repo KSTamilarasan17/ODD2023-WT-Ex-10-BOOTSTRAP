@@ -17,7 +17,8 @@ Construct the form
 Add a submit button and Link Bootstrap JavaScript.
 
 # CODE 10(1) :
-'''DEVELOPED BY: DANIEL.C REG NO:212223240023'''
+DEVELOPED BY: TAMILARASAN K S.
+REG NO: 212223100056
 
 <html>
   <head>
