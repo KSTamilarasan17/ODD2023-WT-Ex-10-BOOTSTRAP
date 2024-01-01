@@ -17,9 +17,10 @@ Construct the form
 Add a submit button and Link Bootstrap JavaScript.
 
 # CODE 10(1) :
+```
 DEVELOPED BY: TAMILARASAN K S.
 REG NO: 212223100056
-
+```
 <html>
   <head>
     <title> Feedback Form | Virtual Workshop on Constructing Modern Websites</title>
